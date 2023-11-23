@@ -1,5 +1,5 @@
 # Frontend-developer-assesment
-This is an assesment for a mid level front end developer.
+This is an assesment for a front end developer.
 
 Welcome Candidate and thank you for taking the time to complete the Cayesh take-home challenge for our frontend engineer position
 
