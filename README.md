@@ -26,8 +26,8 @@ Make the layout responsive with at least one breakpoint (your choice as to how i
 4 - Utilize CSS to create the layout of the page. Add hover styles to the items the user is interacting with.
 5 - Create components as you feel is best suited for your solution.
 6 - the authentication must be built using RTK.
-7 - Make sure that the login page has its validation schema with the rules mentioned earlier ? if you want to add some rules go ahead )
-8 - Make the app responsive to at least one viewport with your guidance in the design change.
+7 - Make sure that the login page has its validation schema with the rules mentioned earlier ? if you want to add some rules , go ahead )
+8 - Make the app responsive to at least one viewport with your guidance in the design change ( mobile view ).
 
 
 
@@ -43,9 +43,7 @@ Make the layout responsive with at least one breakpoint (your choice as to how i
 
 
 # Bonuses
-* Make it pretty ( like some creative ) 
-* Make it accessible.
-* Add unit tests
+* Add unit tests.
 * Use Redux Toolkit query
 
 
