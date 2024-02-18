@@ -1,0 +1,26 @@
+$mainColor: #009B86;
+$bgHoverColor: #34AC9C;
+
+.card {
+  background-color: $mainColor;
+  width: 250px;
+  max-width: 250px;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  border-radius: 5px;
+  margin: .5em;
+  &__title {
+    text-transform: capitalize;
+  }
+  &:hover {
+    background-color: $bgHoverColor;
+    .card__button {
+      background-color: $mainColor;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+    max-width: 100%;
+  }
+}

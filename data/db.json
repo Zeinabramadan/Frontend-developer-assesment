@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Category one",
+      "nominees": [
+        {
+          "id": 1,
+          "name": "nominee 1"
+        },
+        {
+          "id": 2,
+          "name": "nominee 2"
+        },
+        {
+          "id": 3,
+          "name": "nominee 3"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Category two",
+      "nominees": [
+        {
+          "id": 1,
+          "name": "nominee"
+        }
+      ]
+    }
+  ],
+  "auth": []
+}
